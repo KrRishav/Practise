@@ -1,2 +1,4 @@
 R studio
 Python
+Javascript
+Shiny
